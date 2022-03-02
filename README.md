@@ -17,3 +17,29 @@ Fraudulent telemarketing
 
 
 ![Logistic Regression-3](https://user-images.githubusercontent.com/98303163/156309416-96365e34-d34a-462d-95ed-70c7ed8386ae.png)
+
+
+Step 1: Importing the dataset and Sanity Checks
+- List all the libraries used
+- Make ROC functions for later use
+- Import the data csv file onto the disk
+- Check for null values
+
+Step 2: Exploratory Data Analysis
+- Class imbalance of Fraudalent vs Non-Fraudalent 
+- Scatter plot of amount and time and their ditribution of classes
+
+Step 3: Pre-processing the data
+- Splitting the data between X and Y
+- Splitting between train and test set
+- Check for skewed data and apply Power Transofmer to make the distribution more Gaussian
+
+Step 4: Model Building using cross validation
+
+<img width="604" alt="Screenshot 2022-03-02 at 2 28 37 PM" src="https://user-images.githubusercontent.com/98303163/156329049-41502dd6-3307-427a-a44c-9df4e263a7b7.png">
+
+<img width="600" alt="Screenshot 2022-03-02 at 2 29 30 PM" src="https://user-images.githubusercontent.com/98303163/156329186-bc59591a-569e-4843-a8f7-b096a203c87d.png">
+
+<img width="600" alt="Screenshot 2022-03-02 at 2 30 31 PM" src="https://user-images.githubusercontent.com/98303163/156329406-bf1b7551-8cfc-42d4-bf94-716363afd475.png">
+
+<img width="597" alt="Screenshot 2022-03-02 at 2 30 54 PM" src="https://user-images.githubusercontent.com/98303163/156329447-4f95c071-c14a-48dc-8c9a-b48853191653.png">
