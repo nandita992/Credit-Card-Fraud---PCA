@@ -14,3 +14,6 @@ Manipulation/alteration of genuine cards
 Creation of counterfeit cards
 Stealing/loss of credit cards
 Fraudulent telemarketing
+
+
+![Logistic Regression-3](https://user-images.githubusercontent.com/98303163/156309416-96365e34-d34a-462d-95ed-70c7ed8386ae.png)
